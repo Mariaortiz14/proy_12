@@ -1,0 +1,92 @@
+[
+  {
+    "codigoProducto": "01",
+    "nombreProducto": "Arroz",
+    "inventarioProducto": 1,
+    "precioProducto": 45000
+  },
+  {
+    "codigoProducto": "02",
+    "nombreProducto": "Azucar",
+    "inventarioProducto": 10,
+    "precioProducto": 15000
+  },
+  {
+    "codigoProducto": "03",
+    "nombreProducto": "Panela",
+    "inventarioProducto": 10,
+    "precioProducto": 1000
+  },
+  {
+    "codigoProducto": "04",
+    "nombreProducto": "Sal",
+    "inventarioProducto": 10,
+    "precioProducto": 35000
+  },
+  {
+    "codigoProducto": "05",
+    "nombreProducto": "Aceite",
+    "inventarioProducto": 10,
+    "precioProducto": 75000
+  },
+  {
+    "codigoProducto": "06",
+    "nombreProducto": "Canela",
+    "inventarioProducto": 10,
+    "precioProducto": 65500
+  },
+  {
+    "codigoProducto": "07",
+    "nombreProducto": "Cafe",
+    "inventarioProducto": 10,
+    "precioProducto": 4000
+  },
+  {
+    "codigoProducto": "08",
+    "nombreProducto": "Galletas",
+    "inventarioProducto": 13,
+    "precioProducto": 7000
+  },
+  {
+    "codigoProducto": "09",
+    "nombreProducto": "Manzana",
+    "inventarioProducto": 16,
+    "precioProducto": 2000
+  },
+  {
+    "codigoProducto": "10",
+    "nombreProducto": "pera",
+    "inventarioProducto": 8,
+    "precioProducto": 1200
+  },
+  {
+    "codigoProducto": "11",
+    "nombreProducto": "Uvas",
+    "inventarioProducto": 17,
+    "precioProducto": 3000
+  },
+  {
+    "codigoProducto": "12",
+    "nombreProducto": "pollo",
+    "inventarioProducto": 15,
+    "precioProducto": 16000
+  },
+  {
+    "codigoProducto": "13",
+    "nombreProducto": "Pan",
+    "inventarioProducto": 20,
+    "precioProducto": 2000
+  },
+  {
+    "codigoProducto": "14",
+    "nombreProducto": "cereza",
+    "inventarioProducto": 10,
+    "precioProducto": 800
+  },
+  {
+    "codigoProducto": "15",
+    "nombreProducto": "Harina",
+    "inventarioProducto": "10",
+    "precioProducto": "1200"
+  }
+]
